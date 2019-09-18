@@ -16,7 +16,7 @@ function App() {
       <NavBar />
       <Header />
       <div className='main'>
-      <Switch>
+      <Switch basename='/cmack704.github.io'>
         <Route exact path='/' component={Home} />
         <Route path='/portfolio' component={Portfolio} />
         <Route path='/contact' component={Contact} />
