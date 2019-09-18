@@ -1,0 +1,9 @@
+#photo {
+    height: 300px;
+}
+.jumbotron {
+    background-color: #42a5f5;
+}
+.card-header {
+    color: #42a5f5 !important;
+}

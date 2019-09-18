@@ -1,0 +1,12 @@
+
+.project {
+    margin: 20px 20px 20px 70px;
+    height: 25rem;
+}
+.icon {
+    color: #42a5f5;
+}
+.card-header {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
